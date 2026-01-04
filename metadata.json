@@ -1,0 +1,7 @@
+{
+  "name": "Fuhung Gallery",
+  "description": "A high-end art gallery platform focusing on professional art services including private sales, artist representation, and collection planning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
